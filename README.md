@@ -1,6 +1,7 @@
 # jewelapp
 
 A new Flutter project.
+![Screenshot (9)](https://github.com/Nickmunene77/flutter-provider-listTile-functionality/assets/95125271/ca90f848-9883-44cf-b9b0-21829a91cf96)
 
 ## Getting Started
 
